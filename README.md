@@ -1,5 +1,5 @@
 # Antra BI Final Assignment
-[source](https://github.com/mao-at/BI-SEP/tree/trunk/bi/bi%20final%20assingment)
+source:https://github.com/mao-at/BI-SEP/tree/trunk/bi/bi%20final%20assingment
 
 ## Step 1 
 Create liquoSales database in SSIS, together with a new dbo table named 'finance_liquor_sales' by using 'finance_liquor_sales.sql' file.
