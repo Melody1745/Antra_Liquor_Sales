@@ -10,3 +10,4 @@ Connect SQL Server in Jupyter and complete all data calculation, transformation 
 Save the converted dataframe into a [csv file](https://github.com/Melody1745/Antra_Liquor_Sales/blob/main/liquor_sales_converted.csv)
 
 ## Step 3
+[Citi Bike Data](https://www.citibikenyc.com/system-data)
