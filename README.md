@@ -6,7 +6,7 @@ Create liquoSales database in SSIS, together with a new dbo table named 'finance
 ![image](https://github.com/Melody1745/Antra_Liquor_Sales/assets/90291484/6cbe421e-7a13-4995-a453-4503e60f672a)
 
 ## Step 2
-Connect SQL Server in Jupyter and complete all data calculation, transformation and filter job in [Jupyter Notebook (https://github.com/Melody1745/Antra_Liquor_Sales/blob/main/liquor_sales_operation.ipynb)]
-Save the converted dataframe into a csv file[https://github.com/Melody1745/Antra_Liquor_Sales/blob/main/liquor_sales_converted.csv]
+Connect SQL Server in Jupyter and complete all data calculation, transformation and filter job in [Jupyter Notebook](https://github.com/Melody1745/Antra_Liquor_Sales/blob/main/liquor_sales_operation.ipynb)
+Save the converted dataframe into a [csv file](https://github.com/Melody1745/Antra_Liquor_Sales/blob/main/liquor_sales_converted.csv)
 
 ## Step 3
